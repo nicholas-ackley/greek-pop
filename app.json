@@ -13,7 +13,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": ".com.nicholas.greek", //
+      
     },
     "android": {
       "adaptiveIcon": {
@@ -23,6 +25,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router", //
+      ["expo-build-properties",{ //only default
+        "ios": {
+          "useFramerworks": "static"
+        }
+      }],
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+    ]
   }
 }
