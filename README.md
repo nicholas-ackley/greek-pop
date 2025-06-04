@@ -1,19 +1,19 @@
 # 👕 GreekPop – College & Greek Life Resale Marketplace
 
-**GreekPop** is a specialized marketplace app for reselling college apparel and Greek Life merchandise. Unlike platforms like Depop or eBay, GreekPop is designed specifically for students and campus communities, offering exclusive features that blend resale with social, cultural, and event-based context.
+**GreekPop** is a specialized marketplace app for reselling college apparel and Greek Life merchandise. GreekPop is designed specifically for students and campus communities, offering exclusive features that blend resale with social, cultural, and event-based context.
 
 ---
 
 ## 🧠 Why GreekPop?
 
-General resale platforms don’t capture the spirit, exclusivity, or context of Greek Life or college events. GreekPop introduces innovative, community-first features that make it more than just a resale platform — it’s a college culture hub.
+General resale platforms don’t capture the exlusive, or value context of Greek Life or college events. GreekPop introduces innovative, community-first features that make it more than just a resale platform — it’s a college culture hub.
 
 ---
 
 ## 🎯 Key Features
 
 ### ✅ Campus-First Identity
-- **Verified Campus Access** – Users must sign up with a `.edu` email or student ID
+- **Verified Campus Access** – Users must sign up with a `.edu` email or student ID (Exceptions)
 - **Campus-Based Filters** – Filter listings by university, dorm, or campus event
 
 ### 🔱 Greek Life + Club Culture Integration
@@ -30,7 +30,7 @@ General resale platforms don’t capture the spirit, exclusivity, or context of 
 
 ### 💬 Social + Story Layer
 - Add short “origin stories” to listings (e.g., *"Worn on my first Greek Week"*)
-- TikTok-style try-on videos or outfit ideas
+- Use pictures as personal insperation (e.g, *Big Little Reveals*)
 
 ### 🕹️ Gamified Experience
 - Earn **points** for posting, sharing, and buying
@@ -68,6 +68,12 @@ Computer Science & Classical Music Major
 University of Texas at Dallas
 
 ---
+
+ER Diagram
+
+
+
+
 
 ## 🔗 Coming Soon
 
