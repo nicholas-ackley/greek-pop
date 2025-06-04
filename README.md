@@ -69,7 +69,9 @@ University of Texas at Dallas
 
 ---
 
-ER Diagram
+## ER Diagram
+
+![ER Diagram](./ER-Greek.png)
 
 
 
